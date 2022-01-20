@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marianimari/react-spending-tracker/static/css/main.073c9b0a.css",
+    "main.js": "/marianimari/react-spending-tracker/static/js/main.f6915798.js",
+    "static/js/787.85b4cd83.chunk.js": "/marianimari/react-spending-tracker/static/js/787.85b4cd83.chunk.js",
+    "static/media/logo.svg": "/marianimari/react-spending-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/marianimari/react-spending-tracker/index.html",
+    "main.073c9b0a.css.map": "/marianimari/react-spending-tracker/static/css/main.073c9b0a.css.map",
+    "main.f6915798.js.map": "/marianimari/react-spending-tracker/static/js/main.f6915798.js.map",
+    "787.85b4cd83.chunk.js.map": "/marianimari/react-spending-tracker/static/js/787.85b4cd83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f6915798.js"
+  ]
+}
