@@ -1,8 +1,8 @@
 {
-    "name": "react-spending-tracker",
+    "name": "react-expenses-tracker",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/marianimari/react-spending-tracker",
+    "homepage": "https://github.com/marianimari/react-expenses-tracker",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.1",
         "@testing-library/react": "^12.1.2",
