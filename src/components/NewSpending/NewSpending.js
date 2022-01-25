@@ -3,9 +3,11 @@ import SpendingForm from "./SpendingForm";
 import "./NewSpending.css";
 
 const NewSpending = () => {
+
+
   return (
     <div className="new-spending">
-     <SpendingForm/>
+     <SpendingForm onSaveSpendingData/>
     </div>
   );
 };
