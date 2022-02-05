@@ -24,9 +24,13 @@ const App = () => {
       date: new Date(2021, 5, 12),
     },
   ];
+const addSpendingHandler = spendings => {
+console.log(spendings);
+};
+
   return (
     <div>
-      <NewSpending />
+      <NewSpending onAddSpending={addSpendingHandler} />
       <Spendings item={spendings}></Spendings>
     </div>
   );
